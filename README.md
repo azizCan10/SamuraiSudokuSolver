@@ -1,5 +1,5 @@
-Java dili kullanılarak yazılmıştır
+Written with Java
 
-Eclipse ve Netbeans idesinde çalıştırılması tavsiye edilir
+Eclipse and Netbeans ides are recommended
 
-sudokuSolver/src/yazlab2beta1/Main.java 199. satırda sudoku.txt dosyasının konumunu kendi bilgisayarınıza göre ayarlayınız
+sudokuSolver/src/yazlab2beta1/Main.java on line 199, set the location of the sudoku.txt file according to your computer
