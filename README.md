@@ -1,4 +1,4 @@
-## Samurai Sudoku Solvr
+## Samurai Sudoku Solver
 
 Written with Java
 
